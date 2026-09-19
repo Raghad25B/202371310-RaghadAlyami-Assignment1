@@ -117,3 +117,29 @@ textarea {
 textarea {
     resize: vertical;
 }
+
+button {
+    padding: 12px 22px;
+    background-color: #632b35;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #8b7e79;
+}
+
+#form-feedback {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #632b35;
+    color: white;
+    text-align: center;
+}

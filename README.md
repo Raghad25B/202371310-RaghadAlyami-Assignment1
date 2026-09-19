@@ -56,7 +56,7 @@ It does not send or store messages.
 ## AI Use
 
 ChatGPT assisted with code corrections, explanations,and documentation drafts.
-I personalized the content and written the code using our course material as a refrence. 
+I personalized the content and wrote the code using our courses materials as a refrence. 
 
 See the [AI usage report](docs/ai-usage-report.md).
 

@@ -67,7 +67,7 @@ h2{
 }
 
 .project {
-    flex 1 1 300px;
+    flex: 1 1 300px;
     min-width: 0;
     padding: 20px;
     background-color: white;

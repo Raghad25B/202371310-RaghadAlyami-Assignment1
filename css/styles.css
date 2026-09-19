@@ -39,3 +39,23 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+main {
+    width: 90%;
+    max-width: 1000px;
+    margin:0 auto;
+}
+
+section {
+    padding: 35px 0;
+}
+
+h2{
+    color: #632b35;
+    font-size: 28px;
+}
+
+#greeting {
+    color: #632b35;
+    font-weight: bold;
+}

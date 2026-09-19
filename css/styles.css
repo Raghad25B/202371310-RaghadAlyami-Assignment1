@@ -88,3 +88,32 @@ h2{
     color: #632b35;
 }
 
+form {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    font-family: inherit;
+    font-size: 16px;
+    border: 1px solid #8b7e79;
+    border-radius: 5px;
+    background-color: white;
+    color: #292524;
+}
+
+textarea {
+    resize: vertical;
+}
